@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aFuriousFruit
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on cryptum
+- 💞️ I’m looking to collaborate on @cryptumwallet
 - 📫 How to reach me - dont
 
 <!---
